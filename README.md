@@ -12,3 +12,5 @@ Transformations:
  - Similarity = Rotate + Translate + Uniform scale
  - Affine = Rotate + Translate + Uniform scale + Shear
  - Projective / Perspective
+
+![Screenshot](GUI.png)
